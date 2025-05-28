@@ -17,7 +17,7 @@ def mostrar_interface(medidas):
         st.image(imagem_np, caption="Imagem enviada", use_column_width=True)
         st.write("Medidas extraídas:", medidas)
 
-    sugestoes = recomendar_roupas(medidas)
+    sugestoes = recomendar_roupas(medidas)[1]
 
     if sugestoes.empty:
         st.warning("Nenhuma sugestão encontrada para as suas medidas.")
