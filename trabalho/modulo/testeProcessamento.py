@@ -2,11 +2,8 @@ import os
 from tkinter import filedialog
 from tkinter import Tk
 import cv2
-import matplotlib.pyplot as plt
 from processamento import extrair_dados_da_imagem, visualizar_resultados
-#from recomendacao import recomendar_roupas
-#from testeRecomendacao import vibrance_contraste_suave
-
+from recomendacao import recomendar_roupas
 
 if __name__ == "__main__":
     # Cria a janela para escolher o arquivo
@@ -36,6 +33,4 @@ if __name__ == "__main__":
                                       medidas['pouco_cabelo'],
                                       tom_de_cabelo,
                                       medidas['tom_de_olho'])
-
-
-
+            recomendar_roupas(medidas)

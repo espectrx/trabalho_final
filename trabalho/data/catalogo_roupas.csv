@@ -1,16 +1,166 @@
-nome,tipo,cor,estilo,corpo_ideal,imagem
-Blusa Listrada,blusa,azul,casual,ampulheta,blusa1.jpg
-Calça Jeans Slim,calça,escuro,básico,retângulo,calça2.jpg
-Vestido Floral,vestido,vermelho,romântico,pêra,vestido1.jpg
-Camisa Social,camisa,branca,formal,triângulo invertido,camisa1.jpg
-Saia Plissada,saia,rosa,clássico,retângulo,saia1.jpg
-Blazer Alfaiataria,blazer,preto,formal,oval,blazer1.jpg
-Short Jeans,short,claro,casual,pêra,short1.jpg
-Macacão Longo,macacão,verde,mínimalista,ampulheta,macacão1.jpg
-Jaqueta Couro,jaqueta,preto,moderno,triângulo invertido,jaqueta1.jpg
-Calça Pantalona,calça,bege,sofisticado,oval,calça3.jpg
-Blusa Ciganinha,blusa,amarela,boho,pêra,blusa2.jpg
-Saia Lápis,saia,cinza,executivo,retângulo,saia2.jpg
-Vestido Tubinho,vestido,azul marinho,formal,ampulheta,vestido2.jpg
-Camiseta Estampada,camiseta,colorida,casual,triângulo invertido,camiseta1.jpg
-Calça Cargo,calça,verde musgo,street,retângulo,calça4.jpg
+nome,tipo,contraste,estação,cor bgr,imagem
+---,camisa,contraste alto/contraste médio,inverno brilhante,[144 36 78],imagem
+---,camisa,contraste alto/contraste médio,inverno brilhante,[179 68 122],imagem
+---,camisa,contraste alto/contraste médio,inverno brilhante,[166 60 173],imagem
+---,camisa,contraste alto/contraste médio,inverno brilhante,[174 64 214],imagem
+---,camisa,contraste alto/contraste médio,inverno brilhante,[183 130 247],imagem
+---,camisa,contraste alto/contraste médio,inverno brilhante,[245 219 233],imagem
+---,camisa,contraste alto/contraste médio,inverno brilhante,[111 117 124],imagem
+---,camisa,contraste alto/contraste médio,inverno brilhante,[130 212 254],imagem
+---,camisa,contraste alto/contraste médio,inverno brilhante,[122 31 56],imagem
+---,camisa,contraste alto/contraste médio,inverno brilhante,[45 32 142],imagem
+---,camisa,contraste alto/contraste médio,inverno brilhante,[70 41 216],imagem
+---,camisa,contraste alto/contraste médio,inverno brilhante,[90 172 150],imagem
+---,camisa,contraste alto/contraste médio,inverno brilhante,[65 108 17],imagem
+---,camisa,contraste alto/contraste médio,inverno brilhante,[160 100 40],imagem
+---,camisa,contraste alto/contraste médio,inverno brilhante,[243 198 125],imagem
+---,camisa,contraste alto,inverno puro,[146 28 63],imagem
+---,camisa,contraste alto,inverno puro,[255 175 117],imagem
+---,camisa,contraste alto,inverno puro,[64 59 220],imagem
+---,camisa,contraste alto,inverno puro,[62 34 174],imagem
+---,camisa,contraste alto,inverno puro,[243 201 249],imagem
+---,camisa,contraste alto,inverno puro,[152 97 240],imagem
+---,camisa,contraste alto,inverno puro,[68 17 105],imagem
+---,camisa,contraste alto,inverno puro,[182 79 177],imagem
+---,camisa,contraste alto,inverno puro,[118 42 96],imagem
+---,camisa,contraste alto,inverno puro,[136 204 97],imagem
+---,camisa,contraste alto,inverno puro,[69 77 0],imagem
+---,camisa,contraste alto,inverno puro,[168 165 167],imagem
+---,camisa,contraste alto,inverno profundo,[156 131 255],imagem
+---,camisa,contraste alto,inverno profundo,[138 132 245],imagem
+---,camisa,contraste alto,inverno profundo,[55 44 245],imagem
+---,camisa,contraste alto,inverno profundo,[56 47 138],imagem
+---,camisa,contraste alto,inverno profundo,[241 187 137],imagem
+---,camisa,contraste alto,inverno profundo,[112 62 56],imagem
+---,camisa,contraste alto,inverno profundo,[153 121 46],imagem
+---,camisa,contraste alto,inverno profundo,[110 197 171],imagem
+---,camisa,contraste alto,inverno profundo,[46 72 48],imagem
+---,camisa,contraste alto,inverno profundo,[219 219 255],imagem
+---,camisa,contraste alto,inverno profundo,[107 69 157],imagem
+---,camisa,contraste médio,outono profundo,[132 191 242],imagem
+---,camisa,contraste médio,outono profundo,[85 99 220],imagem
+---,camisa,contraste médio,outono profundo,[132 191 242],imagem
+---,camisa,contraste médio,outono profundo,[48 47 143],imagem
+---,camisa,contraste médio,outono profundo,[196 165 226],imagem
+---,camisa,contraste médio,outono profundo,[64 66 220],imagem
+---,camisa,contraste médio,outono profundo,[52 43 106],imagem
+---,camisa,contraste médio,outono profundo,[94 131 211],imagem
+---,camisa,contraste médio,outono profundo,[101 150 182],imagem
+---,camisa,contraste médio,outono profundo,[44 88 105],imagem
+---,camisa,contraste médio,outono profundo,[47 65 94],imagem
+---,camisa,contraste médio,outono profundo,[136 104 55],imagem
+---,camisa,contraste médio,outono profundo,[94 161 162],imagem
+---,camisa,contraste médio,outono profundo,[48 67 70],imagem
+---,camisa,contraste médio,outono profundo,[207 208 229],imagem
+---,camisa,contraste médio,outono puro,[106 190 255],imagem
+---,camisa,contraste médio,outono puro,[49 80 231],imagem
+---,camisa,contraste médio,outono puro,[35 66 141],imagem
+---,camisa,contraste médio,outono puro,[115 203 249],imagem
+---,camisa,contraste médio,outono puro,[46 101 140],imagem
+---,camisa,contraste médio,outono puro,[107 127 252],imagem
+---,camisa,contraste médio,outono puro,[17 48 223],imagem
+---,camisa,contraste médio,outono puro,[108 106 225],imagem
+---,camisa,contraste médio,outono puro,[29 35 132],imagem
+---,camisa,contraste médio,outono puro,[73 162 196],imagem
+---,camisa,contraste médio,outono puro,[58 124 135],imagem
+---,camisa,contraste médio,outono puro,[53 121 98],imagem
+---,camisa,contraste médio,outono puro,[111 71 22],imagem
+---,camisa,contraste médio,outono puro,[127 53 105],imagem
+---,camisa,contraste médio,outono puro,[136 213 245],imagem
+---,camisa,contraste médio,outono suave,[131 140 244],imagem
+---,camisa,contraste médio,outono suave,[78 95 188],imagem
+---,camisa,contraste médio,outono suave,[181 237 248],imagem
+---,camisa,contraste médio,outono suave,[143 198 254],imagem
+---,camisa,contraste médio,outono suave,[149 189 242],imagem
+---,camisa,contraste médio,outono suave,[103 208 255],imagem
+---,camisa,contraste médio,outono suave,[200 192 252],imagem
+---,camisa,contraste médio,outono suave,[103 80 208],imagem
+---,camisa,contraste médio,outono suave,[199 220 181],imagem
+---,camisa,contraste médio,outono suave,[144 144 90],imagem
+---,camisa,contraste médio,outono suave,[210 172 154],imagem
+---,camisa,contraste médio,outono suave,[182 119 129],imagem
+---,camisa,contraste médio,outono suave,[217 209 216],imagem
+---,camisa,contraste médio,outono suave,[128 155 159],imagem
+---,camisa,contraste alto,primavera brilhante,[138 127 240],imagem
+---,camisa,contraste alto,primavera brilhante,[134 53 226],imagem
+---,camisa,contraste alto,primavera brilhante,[99 213 240],imagem
+---,camisa,contraste alto,primavera brilhante,[39 152 216],imagem
+---,camisa,contraste alto,primavera brilhante,[49 41 220],imagem
+---,camisa,contraste alto,primavera brilhante,[128 155 159],imagem
+---,camisa,contraste alto,primavera brilhante,[227 205 76],imagem
+---,camisa,contraste alto,primavera brilhante,[229 142 56],imagem
+---,camisa,contraste alto,primavera brilhante,[105 213 184],imagem
+---,camisa,contraste alto,primavera brilhante,[29 124 52],imagem
+---,camisa,contraste alto,primavera brilhante,[201 101 122],imagem
+---,camisa,contraste alto,primavera brilhante,[81 14 187],imagem
+---,camisa,contraste alto,primavera brilhante,[201 224 236],imagem
+---,camisa,contraste baixo,primavera clara,[182 176 247],imagem
+---,camisa,contraste baixo,primavera clara,[99 103 248],imagem
+---,camisa,contraste baixo,primavera clara,[130 247 251],imagem
+---,camisa,contraste baixo,primavera clara,[111 223 248],imagem
+---,camisa,contraste baixo,primavera clara,[99 174 248],imagem
+---,camisa,contraste baixo,primavera clara,[207 186 249],imagem
+---,camisa,contraste baixo,primavera clara,[158 241 210],imagem
+---,camisa,contraste baixo,primavera clara,[71 188 119],imagem
+---,camisa,contraste baixo,primavera clara,[239 230 154],imagem
+---,camisa,contraste baixo,primavera clara,[217 168 69],imagem
+---,camisa,contraste baixo,primavera clara,[201 224 236],imagem
+---,camisa,contraste baixo,primavera clara,[216 122 173],imagem
+---,camisa,contraste baixo,primavera clara,[235 247 252],imagem
+---,camisa,contraste médio,primavera pura,[127 139 251],imagem
+---,camisa,contraste médio,primavera pura,[79 46 229],imagem
+---,camisa,contraste médio,primavera pura,[90 139 250],imagem
+---,camisa,contraste médio,primavera pura,[97 188 248],imagem
+---,camisa,contraste médio,primavera pura,[161 242 251],imagem
+---,camisa,contraste médio,primavera pura,[121 165 238],imagem
+---,camisa,contraste médio,primavera pura,[67 85 146],imagem
+---,camisa,contraste médio,primavera pura,[56 65 117],imagem
+---,camisa,contraste médio,primavera pura,[136 233 222],imagem
+---,camisa,contraste médio,primavera pura,[85 170 93],imagem
+---,camisa,contraste médio,primavera pura,[197 218 128],imagem
+---,camisa,contraste médio,primavera pura,[182 77 53],imagem
+---,camisa,contraste médio,primavera pura,[204 94 169],imagem
+---,camisa,contraste médio,verão pura,[204 94 169],imagem
+---,camisa,contraste médio,primavera pura,[204 94 169],imagem
+---,camisa,contraste baixo/contraste médio,verão suave,[209 213 222],imagem
+---,camisa,contraste baixo/contraste médio,verão suave,[116 117 126],imagem
+---,camisa,contraste baixo/contraste médio,verão suave,[79 89 108],imagem
+---,camisa,contraste baixo/contraste médio,verão suave,[221 205 244],imagem
+---,camisa,contraste baixo/contraste médio,verão suave,[100 62 194],imagem
+---,camisa,contraste baixo/contraste médio,verão suave,[190 144 222],imagem
+---,camisa,contraste baixo/contraste médio,verão suave,[138 77 217],imagem
+---,camisa,contraste baixo/contraste médio,verão suave,[105 72 150],imagem
+---,camisa,contraste baixo/contraste médio,verão suave,[175 226 245],imagem
+---,camisa,contraste baixo/contraste médio,verão suave,[168 197 172],imagem
+---,camisa,contraste baixo/contraste médio,verão suave,[70 96 66],imagem
+---,camisa,contraste baixo/contraste médio,verão suave,[151 122 100],imagem
+---,camisa,contraste baixo/contraste médio,verão suave,[164 116 123],imagem
+---,camisa,contraste baixo/contraste médio,verão claro,[205 192 251],imagem
+---,camisa,contraste baixo/contraste médio,verão claro,[124 81 195],imagem
+---,camisa,contraste baixo/contraste médio,verão claro,[148 139 247],imagem
+---,camisa,contraste baixo/contraste médio,verão claro,[71 47 195],imagem
+---,camisa,contraste baixo/contraste médio,verão claro,[165 200 44],imagem
+---,camisa,contraste baixo/contraste médio,verão claro,[100 132 49],imagem
+---,camisa,contraste baixo/contraste médio,verão claro,[243 213 154],imagem
+---,camisa,contraste baixo/contraste médio,verão claro,[158 90 48],imagem
+---,camisa,contraste baixo/contraste médio,verão claro,[237 179 182],imagem
+---,camisa,contraste baixo/contraste médio,verão claro,[155 69 113],imagem
+---,camisa,contraste baixo/contraste médio,verão claro,[175 162 153],imagem
+---,camisa,contraste baixo/contraste médio,verão claro,[204 94 169],imagem
+---,camisa,contraste baixo/contraste médio,verão claro,[255 255 255],imagem
+---,camisa,contraste médio,verão puro,[142 111 241],imagem
+---,camisa,contraste médio,verão puro,[90 58 193],imagem
+---,camisa,contraste médio,verão puro,[206 198 188],imagem
+---,camisa,contraste médio,verão puro,[124 103 58],imagem
+---,camisa,contraste médio,verão puro,[179 183 212],imagem
+---,camisa,contraste médio,verão puro,[68 86 94],imagem
+---,camisa,contraste médio,verão puro,[232 200 248],imagem
+---,camisa,contraste médio,verão puro,[73 24 136],imagem
+---,camisa,contraste médio,verão puro,[180 205 137],imagem
+---,camisa,contraste médio,verão puro,[101 140 52],imagem
+---,camisa,contraste médio,verão puro,[238 193 130],imagem
+---,camisa,contraste médio,verão puro,[180 136 70],imagem
+---,camisa,contraste médio,verão puro,[229 169 185],imagem
+---,camisa,contraste médio,verão puro,[130 67 100],imagem
+
+
